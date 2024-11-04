@@ -3,7 +3,7 @@
 
 🌱  Currently diving deep into:
 - BSM
-- ESQ
+- ESG
 - Pricing
 
 "Code is like humor. When you have to explain it, it's bad."
